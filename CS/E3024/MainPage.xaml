@@ -1,0 +1,11 @@
+﻿<UserControl
+    x:Class="E3024.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    xmlns:dxp="http://schemas.devexpress.com/winfx/2008/xaml/printing">
+    <dx:DockPanel>
+        <Button dx:DockPanel.Dock="Top" Content="Load report" Click="loadReportButton_Click" />
+        <dxp:DocumentPreview Name="preview" />
+    </dx:DockPanel>
+</UserControl>
