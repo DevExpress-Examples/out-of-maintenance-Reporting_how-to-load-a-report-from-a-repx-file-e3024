@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SL-LoadRepxDemo", "SL-LoadRepxDemo\SL-LoadRepxDemo.vbproj", "{8AB1E6DB-B058-4B45-8BD4-676F0B372BAE}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SL-LoadRepxDemo.Web", "SL-LoadRepxDemo.Web\SL-LoadRepxDemo.Web.vbproj", "{A9B86B51-E42F-4427-BCF3-07A4086E039B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB1E6DB-B058-4B45-8BD4-676F0B372BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB1E6DB-B058-4B45-8BD4-676F0B372BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB1E6DB-B058-4B45-8BD4-676F0B372BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB1E6DB-B058-4B45-8BD4-676F0B372BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B86B51-E42F-4427-BCF3-07A4086E039B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B86B51-E42F-4427-BCF3-07A4086E039B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B86B51-E42F-4427-BCF3-07A4086E039B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B86B51-E42F-4427-BCF3-07A4086E039B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
