@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Service="SL_LoadRepxDemo.Web.MyReportService" CodeBehind="MyReportService.cs" %>
